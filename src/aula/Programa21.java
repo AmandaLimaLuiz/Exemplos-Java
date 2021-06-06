@@ -1,4 +1,4 @@
-package geekjava;
+package aula;
 
 public class Programa21 {
 	public static void main(String[] args) {

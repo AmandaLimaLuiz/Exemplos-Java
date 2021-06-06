@@ -1,4 +1,4 @@
-package geekjava;
+package aula;
 
 //Instrução SWITCH
 

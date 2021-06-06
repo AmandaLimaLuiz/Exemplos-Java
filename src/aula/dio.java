@@ -1,4 +1,4 @@
-package geekjava;
+package aula;
 
 import java.io.IOException;
 import java.util.Scanner;

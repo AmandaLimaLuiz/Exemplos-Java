@@ -1,4 +1,4 @@
-package geekjava;
+package aula;
 
 public class Programa10 {
 

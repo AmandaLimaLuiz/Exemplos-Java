@@ -1,4 +1,4 @@
-package geekjava;
+package aula;
 // Tipos de Dados alfanuméricos
 // Caracteres e Strings
 public class Programa13 {

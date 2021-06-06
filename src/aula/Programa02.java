@@ -1,4 +1,4 @@
-package geekjava;
+package aula;
 //Compilador e bitecode
 
 public class Programa02 {

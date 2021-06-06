@@ -1,4 +1,4 @@
-package geekjava;
+package aula;
 //Operador Ternario para 2 casos true or false
 public class Programa05 {
 	

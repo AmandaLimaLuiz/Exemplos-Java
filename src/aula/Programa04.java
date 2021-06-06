@@ -1,4 +1,4 @@
-package geekjava;
+package aula;
 //if, else, else if
 public class Programa04 {
 

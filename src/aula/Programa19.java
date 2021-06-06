@@ -1,4 +1,4 @@
-package geekjava;
+package aula;
 // Matrizes pate 2
 public class Programa19 {
 

@@ -1,22 +1,20 @@
-package geekjava;
+package aula;
+
 import java.util.Scanner;
 
-// While e do while
+public class Programa08 {
 
-// Receba dados do usuario enquanto a idade do usuario for maior que 0
-public class Programa07 {
-
+	//do while
 	public static void main(String[] args) {
-		
-		int idade = 1;
+		int idade;
 		String nome;
 		
 		//Para receber dados via teclado
 		Scanner teclado = new Scanner(System.in);
 		
 		
-		//sempre checa o valor antes de executar o bloco
-		while(idade > 0) {
+		//Primeiro executa o bloco e depois faz a checagem
+		do{
 		
 		  System.out.println("Informe seu nome: ");
 		  nome = teclado.nextLine(); //receber string
@@ -28,8 +26,11 @@ public class Programa07 {
 		  System.out.println("Olá " + nome + " você tem " + idade + " anos");
 		
 		  
-		}
+		}while(idade > 0);
 		teclado.close();
+	
+
+
 	}
 
 }
