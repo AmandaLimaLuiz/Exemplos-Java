@@ -1,4 +1,4 @@
-package aula;
+package vetores_matrizes;
 // Matrizes pate 2
 public class Programa19 {
 

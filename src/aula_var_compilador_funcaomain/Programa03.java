@@ -1,4 +1,4 @@
-package aula;
+package aula_var_compilador_funcaomain;
 // a Função main() -> Principal
 
 //Linguagem orientada a objeto

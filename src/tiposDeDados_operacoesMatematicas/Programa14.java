@@ -1,4 +1,4 @@
-package aula;
+package tiposDeDados_operacoesMatematicas;
 
 // Tipos Booleanos
 public class Programa14 {

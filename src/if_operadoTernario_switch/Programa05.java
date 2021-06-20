@@ -1,4 +1,4 @@
-package aula;
+package if_operadoTernario_switch;
 //Operador Ternario para 2 casos true or false
 public class Programa05 {
 	

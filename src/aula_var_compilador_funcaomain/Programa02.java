@@ -1,4 +1,4 @@
-package aula;
+package aula_var_compilador_funcaomain;
 //Compilador e bitecode
 
 public class Programa02 {

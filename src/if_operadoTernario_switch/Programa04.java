@@ -1,4 +1,4 @@
-package aula;
+package if_operadoTernario_switch;
 //if, else, else if
 public class Programa04 {
 

@@ -1,4 +1,4 @@
-package aula;
+package entradaDeDados_while_for;
 
 public class Programa10 {
 

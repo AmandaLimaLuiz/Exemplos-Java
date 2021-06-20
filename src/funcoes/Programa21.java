@@ -1,4 +1,4 @@
-package aula;
+package funcoes;
 
 public class Programa21 {
 	public static void main(String[] args) {

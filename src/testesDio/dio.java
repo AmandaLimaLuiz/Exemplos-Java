@@ -1,4 +1,4 @@
-package aula;
+package testesDio;
 
 import java.io.IOException;
 import java.util.Scanner;

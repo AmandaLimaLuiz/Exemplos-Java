@@ -1,4 +1,4 @@
-package aula;
+package tiposDeDados_operacoesMatematicas;
 
 //Operações Matemticas
 public class Programa15 {

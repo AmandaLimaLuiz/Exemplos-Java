@@ -1,4 +1,4 @@
-package aula;
+package tiposDeDados_operacoesMatematicas;
 
 //Tipos de Dados
 //numericos (Reais)

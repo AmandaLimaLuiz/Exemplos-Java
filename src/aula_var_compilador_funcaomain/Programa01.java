@@ -1,4 +1,4 @@
-package aula;
+package aula_var_compilador_funcaomain;
 
 public class Programa01 {
 

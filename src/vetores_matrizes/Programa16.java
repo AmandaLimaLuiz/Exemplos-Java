@@ -1,4 +1,4 @@
-package aula;
+package vetores_matrizes;
 // Parte 1
 //vetores - Arrays
 //Vetores começam no indice 0
