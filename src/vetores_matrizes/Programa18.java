@@ -4,6 +4,7 @@ package vetores_matrizes;
 
 public class Programa18 {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		//Declaração
 		int outros_numeros [][];

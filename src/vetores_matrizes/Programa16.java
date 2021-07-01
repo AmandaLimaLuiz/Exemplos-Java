@@ -4,6 +4,7 @@ package vetores_matrizes;
 //Vetores começam no indice 0
 public class Programa16 {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		//Declarando
 		int vetor[];

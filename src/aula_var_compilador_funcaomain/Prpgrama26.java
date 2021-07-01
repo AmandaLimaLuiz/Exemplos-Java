@@ -6,6 +6,7 @@ import encapsulamento.Cliente;
 
 public class Prpgrama26 {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		Cliente cli = new Cliente ("Angelina","Rua da barra, 256");
 		//System.out.println("Nome: " + cli.nome);

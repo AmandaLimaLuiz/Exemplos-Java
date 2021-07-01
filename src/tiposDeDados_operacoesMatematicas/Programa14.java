@@ -3,6 +3,7 @@ package tiposDeDados_operacoesMatematicas;
 // Tipos Booleanos
 public class Programa14 {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		
 		//Tipos primitivos
@@ -17,11 +18,11 @@ public class Programa14 {
 		
 		// em memoria ele represeta apenas 0 (falso) ou 1 (verdadeiro)
 		
-		if(1==1) {
+		/*if(1 == 1) {
 			System.out.println("É verdadeiro");
 		}else {
 			System.out.println("É falso");
-		}
+		}*/
 
 	}
 

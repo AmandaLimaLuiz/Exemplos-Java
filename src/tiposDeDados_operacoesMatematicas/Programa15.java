@@ -5,6 +5,7 @@ public class Programa15 {
 
 	//operaçoes matematicas
 	
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		
 		int num1 = 5, num2 = 9, res;

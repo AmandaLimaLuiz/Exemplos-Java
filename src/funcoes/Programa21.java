@@ -1,6 +1,7 @@
 package funcoes;
 
 public class Programa21 {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		int valor1 = 6, valor2 = 2, res;
 		

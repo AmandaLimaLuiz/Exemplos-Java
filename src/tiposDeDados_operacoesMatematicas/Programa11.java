@@ -5,6 +5,7 @@ package tiposDeDados_operacoesMatematicas;
 
 public class Programa11 {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 	
 		//Tipos primarios ou primitivos

@@ -16,7 +16,11 @@ public class Conta {
 		this.limite = limite;
 		this.cliente = cliente;
 	}
-	void sacar(float valor) {
+	
+	public Conta() {
+	}
+	
+	public void sacar(float valor) {
 		if (valor <= this.saldo) {
 			this.saldo = this.saldo - valor;
 			
@@ -24,21 +28,37 @@ public class Conta {
 			float tem = this.saldo - valor;
 			if(tem <0) {
 				this.saldo = 0;
+				
 			}
 			tem = this.limite + tem;
 			this.limite = tem;
+			
 			
 		}else {
 			System.out.println("Saldo Insuficiente.");
 		}
 	}
-	void depositar(float valor) {
+	
+	/**
+	 * Método para realizar depósito
+	 * @param valor a ser depositado
+	 */
+	
+	public void depositar(float valor) {
 		this.saldo = this.saldo + valor;
 	}
-	//----Método getter-------
+	/**----Método getter-------
+	 * do atributo saldo
+	 * @return a soma do saldo + limite
+	 */
 	public float getSaldo() {
 		return this.saldo + this.limite;
 	}
 	
+	@Override
+	public String toString() {
+		
+		return "O Saldo da Conta é: " + this.getSaldo();
+	}
 	
 }

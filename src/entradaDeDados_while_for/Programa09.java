@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Programa09 {
 
 	//for
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		int idade;
 		String nome;

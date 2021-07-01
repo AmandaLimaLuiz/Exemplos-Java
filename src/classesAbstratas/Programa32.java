@@ -18,6 +18,7 @@ package classesAbstratas;
 
 public class Programa32 {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		
 		TreinamentoInicio tit = new TreinamentoInicio();
